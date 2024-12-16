@@ -27,7 +27,7 @@ data[numeric_data.columns] = numeric_data.fillna(numeric_data.mean())
 
 # Verify if missing values are handled
 missing_values_after = data.isnull().sum()
-print("\nMissing Values After Handling:\n", missing_values_after)git
+print("\nMissing Values After Handling:\n", missing_values_after)
 
 from sklearn.preprocessing import LabelEncoder
 
