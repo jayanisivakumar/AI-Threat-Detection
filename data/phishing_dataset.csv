@@ -1,0 +1,11 @@
+url_length,having_ip_address,https_token,insecure_links,anchor_tags,sf_https,form_handler,label
+54,1,1,3,2,1,1,phishing
+33,0,0,2,1,0,0,benign
+78,0,1,5,4,1,1,phishing
+40,0,1,1,0,0,1,benign
+62,1,0,4,3,0,0,phishing
+39,0,0,2,1,0,1,benign
+85,1,1,6,5,1,0,phishing
+51,0,1,3,2,1,1,benign
+90,1,0,7,6,0,1,phishing
+30,0,1,1,0,0,1,benign
